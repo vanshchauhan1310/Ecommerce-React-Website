@@ -1,0 +1,48 @@
+
+.catalogue{
+    position: absolute;
+    top: 60%;
+    left:15px;
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.products{
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    
+}
+
+.products:hover{
+    box-shadow: 0 0 2px 0 rgb(184, 180, 180);
+    border-radius: 2px;
+}
+
+.products a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.products img{
+    height: 250px;
+    width: 100%;
+}
+
+.products .price{
+    color: hotpink;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.products .mrp{
+    font-size: 14px;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+.products i{
+    font-size: 16px;
+    float: right;
+}
