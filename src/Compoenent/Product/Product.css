@@ -9,8 +9,9 @@
 }
 .products{
     height: 300px;
-    width: 200px;
+    width: 250px;
     margin: 10px;
+    background-color: aquamarine;
     
 }
 

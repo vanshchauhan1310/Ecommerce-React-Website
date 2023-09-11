@@ -14,69 +14,104 @@ const product = () => {
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/01/09/15470202891863218028_im_405x552.jpg" />
-    <a href="#">Men Maple Leaf Print Top</a>
+    <img src="https://m.media-amazon.com/images/I/41-pE3cKMfL._AC_SY200_.jpg" />
+    <a href="#">Nokia Flip-Phone Z2</a>
     <span className="price">₹980</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2018/10/08/15389842021314020618_im_405x552.jpg" />
-    <a href="#">Men Letter Print Tee</a>
+    <img src="https://m.media-amazon.com/images/I/51BGxZbBRFL._AC_SY200_.jpg" />
+    <a href="#">Jumbo RAYA Bean Bag</a>
     <span className="price">₹864</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/01/09/15470202631603895831_im_405x552.jpg" />
-    <a href="#">Men Leaves Print Tee</a>
+    <img src="https://m.media-amazon.com/images/I/71Zf9uUp+GL._AC_SY200_.jpg" />
+    <a href="#">Stiff Adjustable Laptop Stand </a>
     <span className="price">₹686</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/04/08/15547116412229128340_im_405x552.jpg" />
-    <a href="#">Men Patch Colorblock Tee</a>
+    <img src="https://m.media-amazon.com/images/I/910NqI0VeFL._AC_UL320_.jpg" />
+    <a href="#">Kolkata night Rider Emum bag</a>
     <span className="price">₹705</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/04/08/15547116701020651253_im_405x552.jpg" />
-    <a href="#">Men Contrast Striped Tee</a>
+    <img src="https://m.media-amazon.com/images/I/41O2yWC1dHL._SX300_SY300_QL70_FMwebp_.jpg" />
+    <a href="#">Sammsung Galaxy Buds Q2</a>
     <span className="price">₹776</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/04/15/15553193301451577746_im_405x552.jpg" />
-    <a href="#">Men Collar Striped Shirt</a>
+    <img src="https://m.media-amazon.com/images/I/51A45F42GvL._SX522_.jpg" />
+    <a href="#">Vinyl Premium Laptop Skin</a>
     <span className="price">₹840</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
   <div className="products">
-    <img src="https://img.ltwebstatic.com/images2_pi/2019/04/18/15555742483153578664_thumbnail_405x552.jpg" />
-    <a href="#">Men Neon Orange Print Top</a>
+    <img src="https://m.media-amazon.com/images/I/71lzEGsauWL._AC_SY175_.jpg" />
+    <a href="#">Toyshine Foosball, Mini Football</a>
     <span className="price">₹684</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
+  
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/04/23/15559983362932558231_im_405x552.jpg" />
-    <a href="#">Men Coconut Trees Shirt</a>
+    <img src="https://m.media-amazon.com/images/I/51YUthiPIOL._SX300_SY300_QL70_FMwebp_.jpg" />
+    <a href="#">Boldfit Cotton Wrist Band </a>
     <span className="price">₹906</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
+
   <div className="products">
-    <img src="https://img.ltwebstatic.com/origin/images2_pi/2019/03/20/1553068140202382881_im_405x552.jpg" />
-    <a href="#">Men Round Neck Tee</a>
+    <img src="https://m.media-amazon.com/images/I/41bLD50sZSL._SX300_SY300_QL70_FMwebp_.jpg" />
+    <a href="#">iQOO Z7s 5G by vivo</a>
     <span className="price">₹873</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
   </div>
+  
+
+  <div className="products">
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/61mCeJSGEKL._AC_UL450_SR450,320_.jpg" />
+    <a href="#">Led Smart watch</a>
+    <span className="price">₹873</span>
+    <span className="mrp">₹1,100</span>
+    <i className="far fa-heart" />
   </div>
+  
+  <div className="products">
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/611fOBnow7L._AC_UL600_SR600,400_.jpg" />
+    <a href="#">Celebration Box</a>
+    <span className="price">₹873</span>
+    <span className="mrp">₹1,100</span>
+    <i className="far fa-heart" />
+  </div>
+  
+  <div className="products">
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/71sjEPobhLL._AC_UL300_SR300,200_.jpg" />
+    <a href="#">Armour pro Edge </a>
+    <span className="price">₹873</span>
+    <span className="mrp">₹1,100</span>
+    <i className="far fa-heart" />
+  </div>
+  
+  <div className="products">
+    <img src="https://images-eu.ssl-images-amazon.com/images/I/514LVnwkcVL._AC_UL600_SR600,400_.jpg" />
+    <a href="#">Multi Purpose Foldable Table </a>
+    <span className="price">₹873</span>
+    <span className="mrp">₹1,100</span>
+    <i className="far fa-heart" />
+  </div>
+</div>
 </>
 
   )
