@@ -10,7 +10,7 @@ const divStyle = {
   alignItems: 'center',
   justifyContent: 'center',
   backgroundSize: 'cover',
-  height: '450px'
+  height: '450px',
 }
 
 

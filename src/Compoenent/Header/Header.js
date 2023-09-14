@@ -1,24 +1,35 @@
 import React from 'react'
+import './Header.css'
 
 const Header = () => {
   return (
-    <div className='header'>
-    <h1 className='logo'>
-        Eshoping
-    </h1>
 
 
-  <nav>
+<>
+<header>
+  <div className="container">
+    <h1 className="logo">Egrab</h1>
+    <nav>
       <ul>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/services">Services</a>
-        <a href="/contact">Contact</a>
-  
+        <li>
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#">Pricing</a>
+        </li>
+        <li>
+          <a href="#">Contact</a>
+        </li>
       </ul>
     </nav>
- 
-</div>
+  </div>
+</header>
+
+</>
+
 
     )
 }
