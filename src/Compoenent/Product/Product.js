@@ -57,7 +57,7 @@ const product = () => {
   </div>
   <div className="products">
     <img src="https://m.media-amazon.com/images/I/71lzEGsauWL._AC_SY175_.jpg" />
-    <a href="#">Toyshine Foosball, Mini Football</a>
+    <a href="#">Toyshine Foosball, </a>
     <span className="price">₹684</span>
     <span className="mrp">₹1,100</span>
     <i className="far fa-heart" />
