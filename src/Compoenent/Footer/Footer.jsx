@@ -10,7 +10,7 @@ function Footer() {
     <div className="container">
       <div className="row">
         <div className="col-sm-12 col-md-6">
-          <h6 style={{color:'black'}}>About</h6>
+          <h6 style={{color:'white'}}>About</h6>
           <p className="text-justify">
            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quisquam laudantium ad provident dolorum ratione? Debitis modi laborum vitae? Aut doloribus veritatis temporibus tempore accusamus nisi magnam velit in nostrum? Quae aliquam ipsa labore deserunt, dolor atque laudantium sequi adipisci impedit quam tempora molestiae commodi dolore aliquid ullam necessitatibus veniam?
           </p>

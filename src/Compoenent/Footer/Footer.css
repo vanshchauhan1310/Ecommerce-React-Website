@@ -1,11 +1,11 @@
 .site-footer
 {
-  background-color:#ffffff;
+  background-color:#000000;
   padding:45px 0 20px;
   font-size:15px;
   margin-top: 700px;
   line-height:24px;
-  color:#000000;
+  color:#ffffff;
 }
 .site-footer hr
 {
