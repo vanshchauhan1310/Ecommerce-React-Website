@@ -33,7 +33,7 @@ function Cart() {
                 />
               </div>
               <div className="col-sm-10">
-                <h4 className="nomargin">Product 1</h4>
+                <h4 className="nomargin">T Shirt</h4>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
