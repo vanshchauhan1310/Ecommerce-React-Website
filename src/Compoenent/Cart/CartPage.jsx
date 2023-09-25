@@ -1,4 +1,5 @@
 import React from 'react'
+import './cart.css'
 
 function Cart() {
   return (
@@ -60,13 +61,188 @@ function Cart() {
             </button>
           </td>
         </tr>
-      </tbody>
-      <tfoot>
-        <tr className="visible-xs">
-          <td className="text-center">
-            <strong>Total $ 5.11</strong>
+
+{/* Product 2*/}
+        <tr>
+          <td data-th="Product">
+            <div className="row">
+              <div className="col-sm-2 hidden-xs">
+                <img
+                  src="http://placehold.it/100x100"
+                  alt="..."
+                  className="img-responsive"
+                />
+              </div>
+              <div className="col-sm-10">
+                <h4 className="nomargin">Pillow</h4>
+                <p>
+                 Comfortable Pillow
+                  </p>
+              </div>
+            </div>
+          </td>
+          <td data-th="Price">$7.77</td>
+          <td data-th="Quantity">
+            <input
+              type="number"
+              className="form-control text-center"
+              defaultValue={1}
+            />
+          </td>
+          <td data-th="Subtotal" className="text-center">
+            $7.77
+          </td>
+          <td className="actions" data-th="">
+            <button className="btn btn-info btn-sm">
+              <i className="fa fa-refresh" />
+            </button>
+            <button className="btn btn-danger btn-sm">
+              <i className="fa fa-trash-o" />
+            </button>
           </td>
         </tr>
+
+
+
+
+
+        {/* Product 3*/}
+        <tr>
+          <td data-th="Product">
+            <div className="row">
+              <div className="col-sm-2 hidden-xs">
+                <img
+                  src="http://placehold.it/100x100"
+                  alt="..."
+                  className="img-responsive"
+                />
+              </div>
+              <div className="col-sm-10">
+                <h4 className="nomargin">Bedsheet</h4>
+                <p>
+                 Soft Bedsheet
+                  </p>
+              </div>
+            </div>
+          </td>
+          <td data-th="Price">$10.02</td>
+          <td data-th="Quantity">
+            <input
+              type="number"
+              className="form-control text-center"
+              defaultValue={1}
+            />
+          </td>
+          <td data-th="Subtotal" className="text-center">
+            $10.00
+          </td>
+          <td className="actions" data-th="">
+            <button className="btn btn-info btn-sm">
+              <i className="fa fa-refresh" />
+            </button>
+            <button className="btn btn-danger btn-sm">
+              <i className="fa fa-trash-o" />
+            </button>
+          </td>
+        </tr>
+
+
+
+
+        {/* Product 4*/}
+        <tr>
+          <td data-th="Product">
+            <div className="row">
+              <div className="col-sm-2 hidden-xs">
+                <img
+                  src="http://placehold.it/100x100"
+                  alt="..."
+                  className="img-responsive"
+                />
+              </div>
+              <div className="col-sm-10">
+                <h4 className="nomargin">Laptop </h4>
+                <p>
+                Gaming Laptop 
+                  </p>
+              </div>
+            </div>
+          </td>
+          <td data-th="Price">$30.00</td>
+          <td data-th="Quantity">
+            <input
+              type="number"
+              className="form-control text-center"
+              defaultValue={1}
+            />
+          </td>
+          <td data-th="Subtotal" className="text-center">
+            $30.00
+          </td>
+          <td className="actions" data-th="">
+            <button className="btn btn-info btn-sm">
+              <i className="fa fa-refresh" />
+            </button>
+            <button className="btn btn-danger btn-sm">
+              <i className="fa fa-trash-o" />
+            </button>
+          </td>
+        </tr>
+
+
+
+   {/* Product 4*/}
+   <tr>
+          <td data-th="Product">
+            <div className="row">
+              <div className="col-sm-2 hidden-xs">
+                <img
+                  src="http://placehold.it/100x100"
+                  alt="..."
+                  className="img-responsive"
+                />
+              </div>
+              <div className="col-sm-10">
+                <h4 className="nomargin">Airbuds </h4>
+                <p>
+                Apple Airbuds
+                  </p>
+              </div>
+            </div>
+          </td>
+          <td data-th="Price">15.00</td>
+          <td data-th="Quantity">
+            <input
+              type="number"
+              className="form-control text-center"
+              defaultValue={1}
+            />
+          </td>
+          <td data-th="Subtotal" className="text-center">
+            $15.00
+          </td>
+          <td className="actions" data-th="">
+            <button className="btn btn-info btn-sm">
+              <i className="fa fa-refresh" />
+            </button>
+            <button className="btn btn-danger btn-sm">
+              <i className="fa fa-trash-o" />
+            </button>
+          </td>
+        </tr>
+
+
+
+
+
+
+      </tbody>
+      <tfoot>
+ 
+
+
+
+
         <tr>
           <td>
             <a href="#" className="btn btn-warning">
