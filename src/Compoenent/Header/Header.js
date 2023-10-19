@@ -11,7 +11,9 @@ const Header = () => {
     <div className="container-fluid">
       <div className="row">
         <div className="col-md-2 my-auto d-none d-sm-none d-md-block d-lg-block">
+          <a href = "/Home">
           <h5 className="brand-name">Egrab</h5>
+          </a>
         </div>
         <div className="col-md-5 my-auto">
           <form role="search">
@@ -30,7 +32,7 @@ const Header = () => {
         <div className="col-md-5 my-auto">
           <ul className="nav justify-content-end">
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/cart">
                 <i className="fa fa-shopping-cart" /> Cart (0)
               </a>
             </li>
