@@ -1,0 +1,111 @@
+[
+    {
+      "image":
+      "https://img.ltwebstatic.com/origin/images2_pi/2018/07/09/15311256221214541777_im_405x552.jpg",
+      "name" : "Men Color Block Shirt",
+      "price" : "₹1,095",
+      "mrp" : "₹1,100"
+    },
+  
+    {
+      "image" : "https://m.media-amazon.com/images/I/61LlQRdDZ2L._SX679_.jpg",
+      "name" : "Boult Earphone ",
+      "price" : "₹105",
+      "mrp" :  "₹200"
+    },
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/41QzYzs+JuL._SY300_SX300_.jpg",
+      "name" : "Ninja Call Pro",
+      "price" : "₹1,200",
+      "mrp" :  "₹1,500"
+    },
+  
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/31Vle5fVdaL._SY445_SX342_QL70_FMwebp_.jpg",
+      "name" : "Gloden Iphone 14",
+      "price" : "₹10,500",
+      "mrp" :  "₹11,100"
+    },
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/4181R+nktQS._SY300_SX300_.jpg",
+      "name" : "Zebronic Speaker",
+      "price" : "₹1000",
+      "mrp" :  "₹1200"
+    },
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/71Q5ahXMQ8L._UX679_.jpg",
+      "name" : "T2F BOYS T-SHIRT ",
+      "price" : "₹295",
+      "mrp" :  "₹1000"
+    },
+
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/416v07slwkL._SX300_SY300_QL70_FMwebp_.jpg",
+      "name" : "Ola Electric",
+      "price" : "₹50,000",
+      "mrp" :  "₹51,100"
+    },
+
+    {
+      "image":
+      "https://img.ltwebstatic.com/origin/images2_pi/2018/07/09/15311256221214541777_im_405x552.jpg",
+      "name" : "Men Color Block Shirt",
+      "price" : "₹1,095",
+      "mrp" : "₹1,100"
+    },
+  
+    {
+      "image" : "https://m.media-amazon.com/images/I/61LlQRdDZ2L._SX679_.jpg",
+      "name" : "Boult Earphone ",
+      "price" : "₹105",
+      "mrp" :  "₹200"
+    },
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/41QzYzs+JuL._SY300_SX300_.jpg",
+      "name" : "Ninja Call Pro",
+      "price" : "₹1,200",
+      "mrp" :  "₹1,500"
+    },
+  
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/31Vle5fVdaL._SY445_SX342_QL70_FMwebp_.jpg",
+      "name" : "Gloden Iphone 14",
+      "price" : "₹10,500",
+      "mrp" :  "₹11,100"
+    },
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/4181R+nktQS._SY300_SX300_.jpg",
+      "name" : "Zebronic Speaker",
+      "price" : "₹1000",
+      "mrp" :  "₹1200"
+    },
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/71Q5ahXMQ8L._UX679_.jpg",
+      "name" : "T2F BOYS T-SHIRT ",
+      "price" : "₹295",
+      "mrp" :  "₹1000"
+    },
+
+
+
+    {
+      "image" : "https://m.media-amazon.com/images/I/416v07slwkL._SX300_SY300_QL70_FMwebp_.jpg",
+      "name" : "Ola Electric",
+      "price" : "₹50,000",
+      "mrp" :  "₹51,100"
+    }
+  ]

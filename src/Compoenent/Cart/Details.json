@@ -1,0 +1,50 @@
+[
+    {
+        "image": "",
+        "name": "White T-shirt",
+        "descreption": "Branded Shirt",
+        "price": "$20",
+        "subtotal": "$20"
+    },
+
+    {
+        "image": "",
+        "name": "Black Shoes",
+        "descreption": "Shinning Shoes",
+        "price": "$50",
+        "subtotal": "$50"
+    },
+
+    {
+        "image": "",
+        "name": "Sports Watch",
+        "descreption": "Sporty Look",
+        "price": "$10",
+        "subtotal": "$10"
+    },
+
+    {
+        "image": "",
+        "name": "Samsung Televison",
+        "descreption": "Smart Tv",
+        "price": "$200",
+        "subtotal": "$200"
+    },
+
+    {
+        "image": "",
+        "name": "I phone - 14",
+        "descreption": "Smart Phone ",
+        "price": "$320",
+        "subtotal": "$320"
+    },
+
+    {
+        "image": "",
+        "name": "Mactonish ",
+        "descreption": "Slimy Laptop",
+        "price": "$230",
+        "subtotal": "$230"
+    }
+
+]

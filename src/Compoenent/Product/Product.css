@@ -1,23 +1,26 @@
 
 .catalogue{
-    position: absolute;
     top: 60%;
     left:15px;
     width:100%;
-    display: flex;
     flex-wrap: wrap;
+
+    
 }
 .products{
+    position: relative;
     height: 300px;
     width: 250px;
-    margin: 10px;
+    margin:10px;
+    margin-bottom: 50px;
+    float: left;
     background-color: aquamarine;
-    
 }
 
 .products:hover{
-    box-shadow: 0 0 2px 0 rgb(184, 180, 180);
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0);
     border-radius: 2px;
+    
 }
 
 .products a{
@@ -29,21 +32,51 @@
 .products img{
     height: 250px;
     width: 100%;
+    
 }
 
 .products .price{
     color: hotpink;
+    position: absolute;
     font-size: 16px;
     font-weight: bold;
+    margin-top: -10px;
+    margin-left: -50px;
 }
 
 .products .mrp{
     font-size: 14px;
+    position: absolute;
     text-decoration: line-through;
     margin-left: 5px;
+    margin-top: -10px;
+
 }
 
 .products i{
     font-size: 16px;
     float: right;
+}
+
+.products h1{
+    font-size: 20px;
+}
+
+.products .Cart{
+    position: absolute;
+    background-color: coral;
+    margin-left: -125px;
+    margin-top: 25px;
+    width: 120px;
+    height: 40px;
+}
+
+
+.products .Buy{
+position: absolute;
+background-color: chartreuse;
+margin-top: 25px;
+width: 125px;
+height: 40px;
+margin-left: 1px;
 }
